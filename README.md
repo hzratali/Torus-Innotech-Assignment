@@ -35,13 +35,13 @@ This is a task management application built using the MERN (MongoDB, Express, Re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hzratali/Torus-Innotech---Assignment.git
+   git clone https://github.com/hzratali/Torus-Innotech-Assignment.git
    ```
 
 2. Navigate to the backend directory:
 
    ```bash
-   cd torus-assignment/backend
+   cd Torus-Innotech-Assignment/backend
    ```
 
 3. Install the dependencies:
@@ -60,7 +60,7 @@ This is a task management application built using the MERN (MongoDB, Express, Re
 5. Start the backend server:
 
    ```bash
-   npm run dev
+   npm start
    ```
 
 ### Frontend Setup
@@ -80,7 +80,7 @@ This is a task management application built using the MERN (MongoDB, Express, Re
 3. Start the frontend server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
